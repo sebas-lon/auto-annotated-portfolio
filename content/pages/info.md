@@ -80,6 +80,7 @@ sections:
         label: Python
       - type: Label
         label: Excel
+    title: 'Skills:'
   - type: FeaturedItemsSection
     title: ''
     items:
