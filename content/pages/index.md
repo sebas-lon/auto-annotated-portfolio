@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image4.jpg
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: right
   backgroundRepeat: no-repeat
   opacity: 27
 sections:
