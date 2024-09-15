@@ -13,11 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+
+      I have a track record of creating high-value dashboards and reports using
+      tools like MSSQL, Tableau, Power BI, Python, and Excel. In my role, I have
+      monitored crucial KPIs, with a financial approach that helps the company
+      make the best decisions from this perspective, contributing to operational
+      excellence. In my previous roles, I have leveraged various tools to
+      produce top-quality panels and reports for operational and financial KPIs,
+      emphasizing process automation to drive insights and improve productivity.
+
+
+
+
     media:
       type: ImageBlock
       url: /images/sebs.jpg
