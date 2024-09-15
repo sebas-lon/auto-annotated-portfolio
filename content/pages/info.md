@@ -159,7 +159,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contact: +57 315'
     colors: colors-f
     text: |+
       <johnsebas2@gmail.com>
