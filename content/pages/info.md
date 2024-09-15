@@ -79,7 +79,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Netlify
+        label: Excel
       - type: Label
         label: Pancakes
       - type: Label
