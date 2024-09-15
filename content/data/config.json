@@ -33,56 +33,5 @@
                 "width": "full"
             }
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "+57 315 323 9201",
-            "email": "johnsebas2@gmail.com",
-            "emailAltText": "johnsebas2@gmail.com",
-            "address": "Cali, Colombia (UTC -5)",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
