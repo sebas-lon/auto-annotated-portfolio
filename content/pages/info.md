@@ -232,6 +232,10 @@ sections:
 
           *   Business Administration with an emphasis on International Business
 
+          ****
+
+          Certificates:
+
           **2014**
 
           *   react certificate somewhere
