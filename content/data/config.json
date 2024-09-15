@@ -31,13 +31,6 @@
                 "label": "LinkedIn",
                 "url": "https://twitter.com/netlify",
                 "icon": "linkedin"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
