@@ -87,7 +87,7 @@ sections:
       - type: Label
         label: Swift
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items:
       - type: FeaturedItem
         title: I'm Fast
