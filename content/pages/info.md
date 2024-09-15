@@ -85,7 +85,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: SQL
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
