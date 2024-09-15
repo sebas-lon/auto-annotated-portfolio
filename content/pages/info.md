@@ -194,26 +194,31 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
 
-          * freelance @freelance.me
+          **Business Intelligence Analyst**
 
-          **2018-2021**
 
-          * fullstack at this startup
+          *   Developed and applied linear and logistic regression models using
+          Python to predict key business metrics and customer behaviors,
+          improving strategic decision-making and operational efficiency.
 
-          **2015**
 
-          * senior front-end at this place
+          **2022-2024**
 
-          **2013**
 
-          * intern developer at a big company
+          **Reporting Analyst**
 
-          **2011**
 
-          * flipping burgers
+          *   Utilized tools like Excel to create high-impact reports, enabling
+          the monitoring of critical KPIs.
+
+          *    Assist in the implementation of Strategic systems, driving
+          organizational growth.
+
+
+          **2021-2022**
+
         styles:
           self:
             textAlign: left
