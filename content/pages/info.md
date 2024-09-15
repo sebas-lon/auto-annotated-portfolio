@@ -230,7 +230,7 @@ sections:
         text: |+
           **2017-2022**
 
-          *   ba computer sciense at a semi fancy school
+          *   Business Administration with an emphasis on International Business
 
           **2014**
 
