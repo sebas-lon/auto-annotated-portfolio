@@ -68,59 +68,69 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: ''
     items:
       - type: Label
         label: MS SQL
       - type: Label
-        label: React
+        label: Power BI
       - type: Label
-        label: Microsoft Office
+        label: Tableau
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: Excel
+    title: 'Skills:'
   - type: FeaturedItemsSection
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: SQL
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+          For ad-hoc reports and dashboards, use views and CTEs for custom
+          queries.
+
+
         actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Power BI & Tableau
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          For the development of dashboards to monitor key KPIs.
+
+
         actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Python
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          ETL and data cleaning, using Pandas, NumPy, and libraries like
+          scikit-learn and
+
+          StatsModels for data analysis and predictive modeling
+
         actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'Excel '
+        subtitle: ''
+        text: >+
+          Experienced in creating ad-hoc reports and automating processes using
+          Macros
+
         elementId: ''
         styles:
           self:
