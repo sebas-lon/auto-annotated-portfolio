@@ -127,10 +127,10 @@ sections:
       - type: FeaturedItem
         title: 'Excel '
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Experienced in creating ad-hoc reports and automating processes using
+          Macros
+
         elementId: ''
         styles:
           self:
