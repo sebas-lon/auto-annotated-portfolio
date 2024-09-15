@@ -243,7 +243,8 @@ sections:
           **2022**
 
 
-          *   Professional Certificate in Google Data Analytics
+          *   [Professional Certificate in Google Data
+          Analytics](https://www.coursera.org/account/accomplishments/professional-cert/4BRX2D9UF6GA)
 
 
           **2022**
@@ -251,7 +252,6 @@ sections:
 
           *   [Data Analysis with Python: Zero to Pandas
           (2022)](https://jovian.ai/certificate/MFQTOOBVGI)
-
 
 
           **2023**
