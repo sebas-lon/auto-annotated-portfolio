@@ -227,18 +227,38 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >
+          **2017-2022**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Business Administration with an emphasis on International Business
 
-          * react certificate somewhere
 
-          **2011**
+          ***
 
-          * my highschool
+
+          Certificates:
+
+
+          **2022**
+
+
+          *   [Professional Certificate in Google Data
+          Analytics](https://www.coursera.org/account/accomplishments/professional-cert/4BRX2D9UF6GA)
+
+
+          **2022**
+
+
+          *   [Data Analysis with Python: Zero to Pandas
+          (2022)](https://jovian.ai/certificate/MFQTOOBVGI)
+
+
+          **2023**
+
+
+          *   [Advanced SQL Server Masterclass for Data
+          Analysis](https://www.udemy.com/certificate/UC-bdfce6b1-61d1-4c3d-bccf-063ce61f3dc4/)
         styles:
           self:
             textAlign: left
