@@ -87,10 +87,12 @@ sections:
       - type: FeaturedItem
         title: SQL
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+
+          For ad-hoc reports and dashboards, use views and CTEs for custom
+          queries.
+
+
         actions: []
         elementId: ''
         styles:
