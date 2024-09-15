@@ -194,9 +194,8 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: >+
-
-          **Business Intelligence Analyst**
+        text: >
+          **Business Intelligence Analyst - Teleperformance**
 
 
           *   Developed and applied linear and logistic regression models using
@@ -207,18 +206,17 @@ sections:
           **2022-2024**
 
 
-          **Reporting Analyst**
+          **Reporting Analyst - Logfor**
 
 
           *   Utilized tools like Excel to create high-impact reports, enabling
           the monitoring of critical KPIs.
 
-          *    Assist in the implementation of Strategic systems, driving
+          *   Assist in the implementation of Strategic systems, driving
           organizational growth.
 
 
           **2021-2022**
-
         styles:
           self:
             textAlign: left
