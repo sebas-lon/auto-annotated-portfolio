@@ -164,7 +164,7 @@ sections:
     text: |+
       <johnsebas2@gmail.com>
 
-    title: CCCa
+    title: ''
   - type: DividerSection
     styles:
       self:
