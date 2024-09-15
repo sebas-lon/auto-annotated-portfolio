@@ -227,18 +227,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017-2022**
 
-          * ba computer sciense at a semi fancy school
+          *   ba computer sciense at a semi fancy school
 
           **2014**
 
-          * react certificate somewhere
+          *   react certificate somewhere
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left
