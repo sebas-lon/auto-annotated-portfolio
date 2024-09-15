@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/histogram-13.png",
+    "favicon": "/images/chart_histogram_two_icon_155677.webp",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -33,5 +33,6 @@
                 "width": "full"
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/1-370ee9d0.jpg"
 }
