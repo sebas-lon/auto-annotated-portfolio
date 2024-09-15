@@ -194,26 +194,29 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >
+          **Business Intelligence Analyst - Teleperformance**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Developed and applied linear and logistic regression models using
+          Python to predict key business metrics and customer behaviors,
+          improving strategic decision-making and operational efficiency.
 
-          * fullstack at this startup
 
-          **2015**
+          **2022-2024**
 
-          * senior front-end at this place
 
-          **2013**
+          **Reporting Analyst - Logfor**
 
-          * intern developer at a big company
 
-          **2011**
+          *   Utilized tools like Excel to create high-impact reports, enabling
+          the monitoring of critical KPIs.
 
-          * flipping burgers
+          *   Assist in the implementation of Strategic systems, driving
+          organizational growth.
+
+
+          **2021-2022**
         styles:
           self:
             textAlign: left
