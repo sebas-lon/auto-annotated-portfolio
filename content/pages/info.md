@@ -77,7 +77,7 @@ sections:
       - type: Label
         label: Tableau
       - type: Label
-        label: Next.js
+        label: Python
       - type: Label
         label: Netlify
       - type: Label
