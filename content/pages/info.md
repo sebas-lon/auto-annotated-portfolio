@@ -161,9 +161,9 @@ sections:
     variant: variant-b
     subtitle: 'Contact: +57 315 3239201'
     colors: colors-f
-    text: |+
-      <johnsebas2@gmail.com>
-
+    text: |
+      Phone: +57 3153239201
+      Mail:[  johnsebas2@gmail.com](mailto:johnsebas2@gmail.com)
     title: ''
   - type: DividerSection
     styles:
