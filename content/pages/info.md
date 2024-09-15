@@ -257,7 +257,8 @@ sections:
           **2023**
 
 
-          *   Advanced SQL Server Masterclass for Data Analysis
+          *   [Advanced SQL Server Masterclass for Data
+          Analysis](https://www.udemy.com/certificate/UC-bdfce6b1-61d1-4c3d-bccf-063ce61f3dc4/)
         styles:
           self:
             textAlign: left
