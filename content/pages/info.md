@@ -75,7 +75,7 @@ sections:
       - type: Label
         label: Power BI
       - type: Label
-        label: Microsoft Office
+        label: Tableau
       - type: Label
         label: Next.js
       - type: Label
