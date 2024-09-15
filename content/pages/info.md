@@ -81,8 +81,6 @@ sections:
       - type: Label
         label: Excel
       - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
       - type: Label
         label: Swift
