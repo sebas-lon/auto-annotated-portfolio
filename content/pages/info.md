@@ -73,7 +73,7 @@ sections:
       - type: Label
         label: MS SQL
       - type: Label
-        label: React
+        label: Power BI
       - type: Label
         label: Microsoft Office
       - type: Label
