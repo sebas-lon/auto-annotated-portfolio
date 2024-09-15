@@ -103,8 +103,8 @@ sections:
     subtitle: 'Contact: '
     colors: colors-f
     text: |
-      Phone: +57 3153239201
-      Mail:[  johnsebas2@gmail.com](mailto:johnsebas2@gmail.com)
+      Phone:+57 3153239201
+      Mail:<johnsebas2@gmail.com>
     title: ''
   - type: DividerSection
     styles:
