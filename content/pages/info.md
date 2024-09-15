@@ -159,7 +159,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-b
-    subtitle: 'Contact: +57 315 3239201'
+    subtitle: 'Contact: '
     colors: colors-f
     text: |
       Phone: +57 3153239201
