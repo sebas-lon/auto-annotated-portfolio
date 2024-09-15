@@ -158,7 +158,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: TextSection
-    variant: variant-a
+    variant: variant-b
     subtitle: 'Contact: +57 315'
     colors: colors-f
     text: |+
