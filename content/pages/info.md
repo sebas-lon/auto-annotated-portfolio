@@ -232,17 +232,25 @@ sections:
 
           *   Business Administration with an emphasis on International Business
 
-          ****
+          ***
 
           Certificates:
 
-          **2014**
+          **2022**
 
-          *   react certificate somewhere
+          *   Professional Certificate in Google Data Analytics
 
-          **2011**
+          **2022**
 
-          *   my highschool
+          *   Data Analysis with Python: Zero to Pandas
+
+          **2023**
+
+          *   Advanced SQL Server Masterclass for Data Analysis
+
+
+
+
 
         styles:
           self:
