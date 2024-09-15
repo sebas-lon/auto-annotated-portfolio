@@ -28,7 +28,7 @@
                 "label": "Learn more",
                 "altText": "",
                 "url": "/Contact me",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
