@@ -227,31 +227,37 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |+
+        text: >
           **2017-2022**
+
 
           *   Business Administration with an emphasis on International Business
 
+
           ***
+
 
           Certificates:
 
+
           **2022**
+
 
           *   Professional Certificate in Google Data Analytics
 
+
           **2022**
 
-          *   Data Analysis with Python: Zero to Pandas
+
+          *   [Data Analysis with Python: Zero to Pandas
+          (2022)](https://jovian.ai/certificate/MFQTOOBVGI)
+
+
 
           **2023**
 
+
           *   Advanced SQL Server Masterclass for Data Analysis
-
-
-
-
-
         styles:
           self:
             textAlign: left
