@@ -80,8 +80,6 @@ sections:
         label: Python
       - type: Label
         label: Excel
-      - type: Label
-        label: Swift
   - type: FeaturedItemsSection
     title: ''
     items:
