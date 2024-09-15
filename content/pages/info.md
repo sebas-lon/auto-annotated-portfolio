@@ -71,7 +71,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: M
+        label: MS SQL
       - type: Label
         label: React
       - type: Label
