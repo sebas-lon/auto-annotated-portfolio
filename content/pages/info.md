@@ -81,8 +81,6 @@ sections:
       - type: Label
         label: Excel
       - type: Label
-        label: C++
-      - type: Label
         label: Swift
   - type: FeaturedItemsSection
     title: ''
