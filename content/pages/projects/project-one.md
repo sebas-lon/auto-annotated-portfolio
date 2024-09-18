@@ -17,7 +17,8 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
-```
+<iframe title="Report Section" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
+
 
 
 
@@ -28,8 +29,6 @@ media:
 [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9)
 
 <iframe title="Report Section" width="800" height="486" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
-
-
 
 <iframe width="800" height="600" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -50,4 +49,8 @@ Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex a
 <iframe title="AdventureWorks" width="1140" height="541.25" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
 
 <iframe title="Report Section" width="800" height="486" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen=""></iframe>
+
+
+
+
 
