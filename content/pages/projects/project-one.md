@@ -17,6 +17,10 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
+<iframe width="800" height="600" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
 <iframe title="AdventureWorks" width="1140" height="541.25" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
