@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SALES FROM ADVENTURE WORKS DATABASE
 colors: colors-a
-date: '2021-10-15'
+date: '2021-01-15'
 client: Awesome client
 description: >-
   In this project, I will explore the Adventure Works database from Microsoft,
