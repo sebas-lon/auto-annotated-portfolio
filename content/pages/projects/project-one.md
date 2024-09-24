@@ -14,7 +14,7 @@ featuredImage:
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
-  url: /images/awl-2.png
+  url: /images/awl-222.png
   altText: Project image
 ---
 #### Get the data
