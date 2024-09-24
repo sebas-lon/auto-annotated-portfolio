@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  In this project, I will explore the Adventure Works database from Microsoft,
+  focusing on sales, customer, and product data analysis.
 featuredImage:
   type: ImageBlock
   url: /images/awl-2.png
