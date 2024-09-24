@@ -9,7 +9,7 @@ description: >-
   focusing on sales, customer, and product data analysis.
 featuredImage:
   type: ImageBlock
-  url: /images/awl-2.png
+  url: /images/awl-22.png
   altText: SALES FROM ADVENTURE WORKS DATABASE
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
