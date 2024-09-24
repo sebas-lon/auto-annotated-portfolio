@@ -1,54 +1,142 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: SALES FROM ADVENTURE WORKS DATABASE
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2023-12-03'
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  In this project, I will explore the Adventure Works database from Microsoft,
+  focusing on sales, customer, and product data analysis.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+  url: /images/awl-2.png
+  altText: SALES FROM ADVENTURE WORKS DATABASE
+  caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/awl-2.png
   altText: Project image
 ---
-<iframe title="Report Section" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
+#### Get the data
+
+I get the latest data from Microsoft, then start working with SQL server management and uploaded the files to Power BI
+
+#### Data that I'll use
+
+I start the exploratory queries to find what type of data I have
 
 
 
 
+```
+-- Cleansed DIM_Date Table --
+--Calendar
+SELECT
+[DateKey],
+[FullDateAlternateKey] AS Date,
+[EnglishDayNameOfWeek] AS Day,
+[EnglishMonthName] AS Month,
+Left([EnglishMonthName], 3) AS MonthShort,[MonthNumberOfYear] AS MonthNo,
+[CalendarQuarter] AS Quarter,
+[CalendarYear] AS Year
+FROM
+[AdventureWorksDW2019].[dbo].[DimDate]
+WHERE
+CalendarYear >= 2019
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 ```
 
-[Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9)
+```
+--- Customers
+```
 
-<iframe title="Report Section" width="800" height="486" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
+```
+SELECT
+c.customerkey AS CustomerKey,
+c.firstname AS [First Name],
+c.lastname AS [Last Name],
+c.firstname + ' ' + lastname AS [Full Name],
+CASE c.gender WHEN 'M' THEN 'Male' WHEN 'F' THEN 'Female' END AS Gender,
+c.datefirstpurchase AS DateFirstPurchase,
+g.city AS [Customer City] -- Joined in Customer City from Geography Table
+FROM
+[AdventureWorksDW2019].[dbo].[DimCustomer] as c
+LEFT JOIN AdventureWorksDW2019.dbo.dimgeography AS g ON g.geographykey = c.geographykey
+ORDER BY
+CustomerKey ASC
 
-<iframe width="800" height="600" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+```
 
-<iframe width="800" height="600" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
+```
+-- Products
+```
 
-<iframe title="AdventureWorks" width="1140" height="541.25" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
+```
+SELECT
+p.[ProductKey],
+p.[ProductAlternateKey] AS ProductItemCode,
+p.[EnglishProductName] AS [Product Name],
+ps.EnglishProductSubcategoryName AS [Sub Category],
+pc.EnglishProductCategoryName AS [Product Category],
+p.[Color] AS [Product Color],
+p.[Size] AS [Product Size],
+p.[ProductLine] AS [Product Line],
+p.[ModelName] AS [Product Model Name],
+p.[EnglishDescription] AS [Product Description],
+ISNULL (p.Status, 'Outdated') AS [Product Status]
+FROM
+[AdventureWorksDW2019].[dbo].[DimProduct] as p
+LEFT JOIN AdventureWorksDW2019.dbo.DimProductSubcategory AS ps ON ps.ProductSubcategoryKey = p.ProductSubcategoryKey
+LEFT JOIN AdventureWorksDW2019.dbo.DimProductCategory AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey
+order by
+p.ProductKey asc
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+```
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+```
+--Intertnet Sales
+```
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+```
+SELECT
+[ProductKey],
+[OrderDateKey],
+[DueDateKey],
+[ShipDateKey],
+[CustomerKey],
+[SalesOrderNumber],
+[SalesAmount]
+FROM
+[AdventureWorksDW2019].[dbo].[FactInternetSales]
+WHERE
+LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -3
+ORDER BY
+OrderDateKey ASC
+```
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
 
-<iframe title="Report Section" width="800" height="486" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen="true"></iframe>
 
-<iframe title="AdventureWorks" width="1140" height="541.25" src="https\://app.powerbi.com/reportEmbed?reportId=992d8150-a7ff-4d4c-91f3-71dc64c3ec8a\&autoAuth=true\&ctid=2638f231-ed6a-45b1-a643-c854bed22096" frameborder="0" allowFullScreen="true"></iframe>
 
-<iframe title="Report Section" width="800" height="486" src="https\://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe title="Report Section" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
+
+## INFERENCES AND CONCLUSION
+
+*   The sales went up 2.715 M more than expected over the first 3 years
+
+*   Around 96% of the sales were bikes
+
+*   The month of June is when the sales sky up
+
+*   The best customer is Jordan Turner with around 16000
+
+*   The bike with more sales is the Mountain-200 Black, 42
+
+*   The majority of sales are in the west of the states, Uk, german, France, and Australia
+
+RECOMMENDATIONS
+
+\*Increase sales of accessories and clothing, since after a year of introducing these two segments it had a share of sales of around 5%
 
 
 
