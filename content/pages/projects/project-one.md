@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/awl-2.png
-  altText: Project thumbnail image
+  altText: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
   url: /images/bg1.jpg
