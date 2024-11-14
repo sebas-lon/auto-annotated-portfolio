@@ -4,8 +4,8 @@ title: Placer Growth Analysis
 date: '2024-06-19'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample the
-  spending of a digital media campaign
+  In this project, the objective is to analyze from the dataset sample of
+  Placer.ai
 featuredImage:
   type: ImageBlock
   url: /images/SalesFunnel IMG.png
