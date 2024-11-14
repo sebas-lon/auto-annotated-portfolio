@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Placer_logo.jpg
-  altText: SALES FROM ADVENTURE WORKS DATABASE
+  altText: Placer.ai
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
