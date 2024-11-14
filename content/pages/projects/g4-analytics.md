@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/SalesFunnel IMG.png
-  altText: SALES FROM ADVENTURE WORKS DATABASE
+  altText: g4
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
