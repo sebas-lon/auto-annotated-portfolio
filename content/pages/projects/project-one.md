@@ -111,7 +111,7 @@ ORDER BY
 OrderDateKey ASC
 ```
 
-<iframe title="AdventureWorks Report_FINAL" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=28de5773-6040-482d-b89b-536a2328f592&autoAuth=true&ctid=5c937ee8-783d-4a3a-9747-9c9cb3365db8" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="AdventureWorks" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiNTYzOTYxYTItNjk2Yy00MmIxLTgxNWYtZThjMGY1NzY1NDVmIiwidCI6IjVjOTM3ZWU4LTc4M2QtNGEzYS05NzQ3LTljOWNiMzM2NWRiOCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## INFERENCES AND CONCLUSION
 
