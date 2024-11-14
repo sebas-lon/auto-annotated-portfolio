@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SALES FROM ADVENTURE WORKS DATABASE
 colors: colors-a
-date: '2023-12-03'
+date: ''
 client: ''
 description: >-
   In this project, I will explore the Adventure Works database, focusing on
