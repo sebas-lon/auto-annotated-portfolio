@@ -110,7 +110,12 @@ LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -3
 ORDER BY
 OrderDateKey ASC
 ```
+
 <iframe title="AdventureWorks" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNTYzOTYxYTItNjk2Yy00MmIxLTgxNWYtZThjMGY1NzY1NDVmIiwidCI6IjVjOTM3ZWU4LTc4M2QtNGEzYS05NzQ3LTljOWNiMzM2NWRiOCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+<iframe title="AdventureWorks" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiNzk1OWNmNzEtYjkxOS00OTAxLThlM2QtMGMzNWM1NWY4MGRiIiwidCI6ImQ3YWZiYjlhLTYzMTAtNGVkMi05ZTczLWE3MGE3ZDUxNjljZCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## INFERENCES AND CONCLUSION
 
