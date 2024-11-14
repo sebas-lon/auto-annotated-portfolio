@@ -13,7 +13,7 @@ featuredImage:
   caption: g4
 media:
   type: ImageBlock
-  url: /images/SalesFunnel IMG2.png
+  url: /images/SalesFunnel IMG3.png
   altText: g4
 bottomSections: []
 metaTags: []
