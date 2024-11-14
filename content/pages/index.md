@@ -64,7 +64,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/g4-analytics.md
       - content/pages/projects/aw-cycles.md
     styles:
