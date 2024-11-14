@@ -8,13 +8,13 @@ description: >-
   spending of a digital media campaign
 featuredImage:
   type: ImageBlock
-  url: /images/SalesFunnel IMG.png
-  altText: SALES FROM ADVENTURE WORKS DATABASE
-  caption: SALES FROM ADVENTURE WORKS DATABASE
+  url: /images/SalesFunnel IMG3.png
+  altText: g4
+  caption: g4
 media:
   type: ImageBlock
-  url: /images/SalesFunnel IMG.png
-  altText: Project image
+  url: /images/SalesFunnel IMG3.png
+  altText: g4
 bottomSections: []
 metaTags: []
 colors: colors-a

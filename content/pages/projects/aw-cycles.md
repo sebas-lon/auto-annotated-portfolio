@@ -121,14 +121,12 @@ OrderDateKey ASC
 
 *   Around 96% of the sales were bikes
 
-*   The month of June is when the sales sky up
+*   In the months of Dic-Jan the sales sky up
 
 *   The best customer is Maurice Shan
 
 *   The bike with the most sales is the Mountain-200 Black, with 42
 
 *   Most sales are in the west of the states and the UK.
-
-
 
 \*Increase sales of accessories and clothing, since after a year of introducing these two segments it had a share of sales of around 5%
