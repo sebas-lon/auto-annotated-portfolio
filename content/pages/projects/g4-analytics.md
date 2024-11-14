@@ -8,7 +8,7 @@ description: >-
   sales, customer, and product data analysis.
 featuredImage:
   type: ImageBlock
-  url: /images/awl-222.png
+  url: /images/SalesFunnel IMG.png
   altText: SALES FROM ADVENTURE WORKS DATABASE
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
