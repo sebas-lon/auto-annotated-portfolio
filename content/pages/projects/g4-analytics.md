@@ -4,8 +4,8 @@ title: MEDIA ANALYTICS DERMACOOL
 date: '2024-07-10'
 client: ''
 description: >-
-  In this project, I will explore the Adventure Works database, focusing on
-  sales, customer, and product data analysis.
+  In this project, the objective is to analyze from the dataset sample the
+  spending of a digital media campaign
 featuredImage:
   type: ImageBlock
   url: /images/SalesFunnel IMG.png
