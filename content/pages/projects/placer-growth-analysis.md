@@ -13,7 +13,7 @@ featuredImage:
   caption: Placer.ai
 media:
   type: ImageBlock
-  url: /images/Placer_logo2.png
+  url: /images/Placer_logo3.png
   altText: placer
 bottomSections: []
 metaTags: []
