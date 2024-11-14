@@ -25,9 +25,6 @@ I get the latest data from Microsoft, then start working with SQL server managem
 
 I start the exploratory queries to find what type of data I have
 
-
-
-
 ```
 -- Cleansed DIM_Date Table --
 --Calendar
@@ -114,11 +111,7 @@ ORDER BY
 OrderDateKey ASC
 ```
 
-
-
-
-
-<iframe title="Report Section" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZDM4MmViM2ItMTM4MS00YmEzLWI4N2EtZjc3YmQ4YzEwNjM3IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen></iframe>
+<iframe title="AdventureWorks Report_FINAL" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=28de5773-6040-482d-b89b-536a2328f592&autoAuth=true&ctid=5c937ee8-783d-4a3a-9747-9c9cb3365db8" frameborder="0" allowFullScreen="true"></iframe>
 
 ## INFERENCES AND CONCLUSION
 
@@ -137,8 +130,3 @@ OrderDateKey ASC
 RECOMMENDATIONS
 
 \*Increase sales of accessories and clothing, since after a year of introducing these two segments it had a share of sales of around 5%
-
-
-
-
-
