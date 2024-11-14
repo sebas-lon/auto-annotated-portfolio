@@ -21,7 +21,9 @@ colors: colors-a
 ---
 \##MEDIA ANALYTICS DERMACOOL
 
-<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="800" height="407" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="700" height="414" frameborder="0" allowfullscreen></iframe>
+
+
 
 ## INFERENCES AND CONCLUSION
 
@@ -42,4 +44,3 @@ colors: colors-a
 *   Implement Conversion Tracking: If not already in place, marketers should set up conversion tracking to correlate engagement metrics like impressions, sessions, and clicks with actual business outcomes. This would allow better insights into which campaigns drive the most valuable actions.
 
 *   Reduce Spending on Underperforming Platforms: For platforms like GoodRx and Healthline, where engagement is low, marketers should consider reducing ad spend or completely removing these from the campaign strategy unless performance improves after optimizations.
-
