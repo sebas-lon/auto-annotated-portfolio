@@ -19,7 +19,9 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-#### Get the data
+MEDIA ANALYTICS DERMACOOL
+
+Get the data
 
 I get the latest data from Microsoft, then start working with SQL server management and uploaded the files to Power BI
 
