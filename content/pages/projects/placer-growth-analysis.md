@@ -21,8 +21,7 @@ colors: colors-a
 ---
 \##MEDIA ANALYTICS DERMACOOL
 
-<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="700" height="414" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="1400" height="827" frameborder="0" allowfullscreen></iframe>
 
 
 ## INFERENCES AND CONCLUSION
