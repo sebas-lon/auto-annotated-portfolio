@@ -19,10 +19,9 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-##MEDIA ANALYTICS DERMACOOL
+\##MEDIA ANALYTICS DERMACOOL
 
-<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="1400" height="827" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="800" height="407" frameborder="0" allowfullscreen></iframe>
 
 ## INFERENCES AND CONCLUSION
 
