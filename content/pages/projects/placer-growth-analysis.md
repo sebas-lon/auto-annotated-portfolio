@@ -8,7 +8,7 @@ description: >-
   Placer.ai
 featuredImage:
   type: ImageBlock
-  url: /images/Placer_logo.jpg
+  url: /images/Placer_logo2.png
   altText: Placer.ai
   caption: Placer.ai
 media:
