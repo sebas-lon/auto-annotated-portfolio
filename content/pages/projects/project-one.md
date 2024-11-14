@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: SALES FROM ADVENTURE WORKS DATABASE
+title: borrar
 colors: colors-a
 date: '2024-08-05'
 client: ''
