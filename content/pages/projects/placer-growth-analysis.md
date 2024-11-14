@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Placer_logo.jpg
   altText: Placer.ai
-  caption: SALES FROM ADVENTURE WORKS DATABASE
+  caption: Placer.ai
 media:
   type: ImageBlock
   url: /images/SalesFunnel IMG.png
