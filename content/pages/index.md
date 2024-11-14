@@ -65,6 +65,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-one.md
+      - content/pages/projects/g4-analytics.md
     styles:
       self:
         height: auto
