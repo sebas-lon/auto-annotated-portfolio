@@ -121,12 +121,12 @@ OrderDateKey ASC
 
 *   The month of June is when the sales sky up
 
-*   The best customer is Jordan Turner with around 16000
+*   The best customer is Maurice Shan
 
-*   The bike with more sales is the Mountain-200 Black, 42
+*   The bike with the most sales is the Mountain-200 Black, with 42
 
-*   The majority of sales are in the west of the states, Uk, german, France, and Australia
+*   Most sales are in the west of the states and the UK.
 
-RECOMMENDATIONS
+
 
 \*Increase sales of accessories and clothing, since after a year of introducing these two segments it had a share of sales of around 5%
