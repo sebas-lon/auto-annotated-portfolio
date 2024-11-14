@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Placer_logo2.png
-  altText: Project image
+  altText: placer
 bottomSections: []
 metaTags: []
 colors: colors-a
