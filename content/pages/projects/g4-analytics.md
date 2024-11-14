@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/SalesFunnel IMG2.png
-  altText: Project image
+  altText: g4
 bottomSections: []
 metaTags: []
 colors: colors-a
