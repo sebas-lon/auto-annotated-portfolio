@@ -13,7 +13,7 @@ featuredImage:
   caption: SALES FROM ADVENTURE WORKS DATABASE
 media:
   type: ImageBlock
-  url: /images/awl-222.png
+  url: /images/SalesFunnel IMG.png
   altText: Project image
 bottomSections: []
 metaTags: []
