@@ -5,8 +5,8 @@ colors: colors-a
 date: '2023-12-03'
 client: ''
 description: >-
-  In this project, I will explore the Adventure Works database from Microsoft,
-  focusing on sales, customer, and product data analysis.
+  In this project, I will explore the Adventure Works database, focusing on
+  sales, customer, and product data analysis.
 featuredImage:
   type: ImageBlock
   url: /images/awl-222.png
