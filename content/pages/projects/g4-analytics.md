@@ -8,7 +8,7 @@ description: >-
   spending of a digital media campaign
 featuredImage:
   type: ImageBlock
-  url: /images/SalesFunnel IMG2.png
+  url: /images/SalesFunnel IMG3.png
   altText: g4
   caption: g4
 media:
