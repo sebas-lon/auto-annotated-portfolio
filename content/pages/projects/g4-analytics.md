@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: MEDIA ANALYTICS DERMACOOL
-date: '2024-07-05'
+date: '2024-07-10'
 client: ''
 description: >-
   In this project, I will explore the Adventure Works database, focusing on
