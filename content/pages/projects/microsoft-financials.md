@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: MICROSOFT FINANCIALS
-date: '2024-02-10'
+date: '2023-11-10'
 client: ''
 description: >-
   In this project, the objective is to analyze from the dataset sample the
