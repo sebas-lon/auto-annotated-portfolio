@@ -4,8 +4,8 @@ title: COVID 2022 IN COL
 date: '2022-12-21'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample of
-  Placer.ai
+  MY GOAL WITH THIS PROJECT IS TO MANAGE THE OFFICIAL DATA ON THE CORONAVIRUS
+  AND FIGURE OUT WHAT HAD HAPPENED IN MY NATIVE COUNTRY AND THE WORLD TODAY.
 featuredImage:
   type: ImageBlock
   url: /images/Placer_logo3.png
