@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: PLACER GROWTH ANALYSIS
+title: COVID 2022 IN COL
 date: '2024-06-19'
 client: ''
 description: >-
