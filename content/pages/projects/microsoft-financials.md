@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/microsoftfinancial.png
-  altText: g4
+  altText: m
   caption: g4
 media:
   type: ImageBlock
