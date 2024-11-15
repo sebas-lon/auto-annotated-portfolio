@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: COVID 2022 IN COL
+title: COVID 2022 IN COLOMBIA
 date: '2022-12-21'
 client: ''
 description: >-
