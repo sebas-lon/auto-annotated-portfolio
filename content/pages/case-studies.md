@@ -7,7 +7,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: /case-studies
     projects:
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
