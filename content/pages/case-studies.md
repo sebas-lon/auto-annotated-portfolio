@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: case studies
 sections:
   - type: HeroSection
     title: 'HI, I''M Sebas Londono'
