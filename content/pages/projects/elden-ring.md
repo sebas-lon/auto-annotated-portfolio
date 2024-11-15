@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Elden Ring.png
-  altText: g4
+  altText: ELDEN RING
   caption: g4
 media:
   type: ImageBlock
