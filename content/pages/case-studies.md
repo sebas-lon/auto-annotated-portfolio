@@ -43,6 +43,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Case Studies
 metaTags: []
 colors: colors-a
 backgroundImage:
