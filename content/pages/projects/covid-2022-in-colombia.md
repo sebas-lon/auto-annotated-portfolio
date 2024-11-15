@@ -13,7 +13,7 @@ featuredImage:
   caption: covid
 media:
   type: ImageBlock
-  url: /images/Placer_logo3.png
+  url: /images/COVID 2022 COL.png
   altText: placer
 bottomSections: []
 metaTags: []
