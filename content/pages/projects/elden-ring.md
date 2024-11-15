@@ -4,8 +4,10 @@ title: ELDEN RING
 date: '2023-06-13'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample the
-  spending of a digital media campaign
+  Hello, this project is for Fromsoftware fans, people interested in playing
+  Elden Ring and open world games, especially those who want to build a
+  character with physical strength or dexterity as their main ability, also
+  search through the data and see the relationships or insights we can find.
 featuredImage:
   type: ImageBlock
   url: /images/SalesFunnel IMG3.png
