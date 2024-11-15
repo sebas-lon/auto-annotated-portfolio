@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ELDEN RING
-date: '2023-08-10'
+date: '2023-07-10'
 client: ''
 description: >-
   In this project, the objective is to analyze from the dataset sample the
