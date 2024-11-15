@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: COVID 2022 IN COL
-date: '2024-06-19'
+date: '2024-05-19'
 client: ''
 description: >-
   In this project, the objective is to analyze from the dataset sample of
