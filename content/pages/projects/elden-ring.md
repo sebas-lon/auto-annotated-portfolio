@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: MEDIA ANALYTICS DERMACOOL
+title: ELDEN RING
 date: '2024-07-10'
 client: ''
 description: >-
