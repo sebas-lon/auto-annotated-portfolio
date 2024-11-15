@@ -56,7 +56,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: See all case studies
         url: /case-studies
     showDate: false
     showDescription: true
