@@ -13,6 +13,7 @@ sections:
       - content/pages/projects/g4-analytics.md
       - content/pages/projects/placer-growth-analysis.md
       - content/pages/projects/microsoft-financials.md
+      - content/pages/projects/elden-ring.md
     colors: colors-f
     variant: variant-b
     elementId: ''
