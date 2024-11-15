@@ -12,6 +12,7 @@ sections:
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
       - content/pages/projects/placer-growth-analysis.md
+      - content/pages/projects/microsoft-financials.md
     colors: colors-f
     variant: variant-b
     elementId: ''
