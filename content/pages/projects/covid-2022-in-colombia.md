@@ -8,7 +8,7 @@ description: >-
   AND FIGURE OUT WHAT HAD HAPPENED IN MY NATIVE COUNTRY AND THE WORLD TODAY.
 featuredImage:
   type: ImageBlock
-  url: /images/Placer_logo3.png
+  url: /images/COVID 2022 COL.png
   altText: Placer.ai
   caption: Placer.ai
 media:
