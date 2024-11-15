@@ -19,8 +19,7 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-<iframe title="Financial analysis Microsoft" width="600" height="365" src="https://app.powerbi.com/view?r=eyJrIjoiYzFhOTdjMTYtMDlkNi00MzRkLWE1ZWYtZTI5ZWRlZDIwYTE1IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen=""></iframe>
-
+<iframe title="Financial analysis Microsoft" width="800" height="465" src="https://app.powerbi.com/view?r=eyJrIjoiYzFhOTdjMTYtMDlkNi00MzRkLWE1ZWYtZTI5ZWRlZDIwYTE1IiwidCI6ImU5OTQwNzJiLTUyM2UtNGJmZS04NmUyLTQ0MmM1ZTEwYjI0NCIsImMiOjR9" frameborder="0" allowfullscreen=""></iframe>
 
 ## INFERENCES AND CONCLUSION
 
@@ -31,3 +30,4 @@ colors: colors-a
 *   Net profit has been increased, but in the last year decelerated the pace increased the amount
 
 *   taxes have doubled since 2019, but the net profit hasn't, meaning as well an increase in the cost of goods and operative expenses.
+
