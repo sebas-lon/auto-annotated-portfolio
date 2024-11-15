@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/COVID 2022 COL.png
-  altText: placer
+  altText: covid
 bottomSections: []
 metaTags: []
 colors: colors-a
