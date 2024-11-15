@@ -3,7 +3,7 @@ type: PageLayout
 title: case studies
 sections:
   - type: FeaturedProjectsSection
-    subtitle: Projects
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
