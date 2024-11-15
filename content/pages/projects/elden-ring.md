@@ -20,7 +20,7 @@ media:
   caption: ELDEN RING
 bottomSections: []
 metaTags: []
-colors: colors-e
+colors: colors-b
 ---
 ## USED LIBRARIES/PACKAGES IN THIS PROJECT
 
