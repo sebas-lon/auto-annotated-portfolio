@@ -20,9 +20,10 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-\##Tableau Metrics
+##Tableau Metrics
 
-<iframe src="https://public.tableau.com/views/GrowthDashboard_17273587476900/NetNewARR?:embed=y&:display_count=y&:showVizHome=no" width="1400" height="827" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://public.tableau.com/views/Covidin2022/COVID22?:embed=y&:display_count=y&:showVizHome=no" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+
 
 ## INFERENCES AND CONCLUSION
 
@@ -31,6 +32,3 @@ In this dashboard, I’ve pulled together the main metrics we should keep an eye
 We can also calculate key metrics like CAC (Customer Acquisition Cost) and LTV (Customer Lifetime Value) along with churn. A negative churn is significant for SaaS, as it means we’re generating more revenue from our existing customers, even if we have fewer of them.
 
 Lastly, in terms of market culture, we can look at the SAM (Serviceable Available Market) and market share, which helps us see how much we can grow and how many reps we’ll need to get there. We can also keep track of the KPI for timely hiring to ensure we’re on track to hit our growth targets.
-
-
-
