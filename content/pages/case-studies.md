@@ -2,47 +2,6 @@
 type: PageLayout
 title: case studies
 sections:
-  - type: HeroSection
-    title: 'HI, I''M Sebas Londono'
-    subtitle: >-
-      An Business Intelligence Analyst with a strong desire to help
-      organizations clearly state their needs and make meaningful changes
-      through data-driven decisions.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/1-370ee9d0.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedProjectsSection
     subtitle: Projects
     actions:
