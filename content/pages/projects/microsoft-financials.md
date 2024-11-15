@@ -8,7 +8,7 @@ description: >-
   MICROSOFT FINANCIAL STATEMENTS 2019 - 2022
 featuredImage:
   type: ImageBlock
-  url: /images/SalesFunnel IMG3.png
+  url: /images/microsoftfinancial.png
   altText: g4
   caption: g4
 media:
