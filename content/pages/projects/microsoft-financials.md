@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/microsoftfinancial.png
   altText: m
-  caption: g4
+  caption: g
 media:
   type: ImageBlock
   url: /images/SalesFunnel IMG3.png
