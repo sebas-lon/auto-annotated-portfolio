@@ -15,8 +15,8 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Case Studies",
+                "url": "/case-studies"
             }
         ],
         "socialLinks": [
