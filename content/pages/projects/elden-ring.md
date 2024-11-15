@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Elden Ring.png
-  altText: g4
+  altText: ELDEN RING
 bottomSections: []
 metaTags: []
 colors: colors-a
