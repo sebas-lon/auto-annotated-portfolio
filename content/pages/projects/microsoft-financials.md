@@ -4,8 +4,8 @@ title: MICROSOFT FINANCIALS
 date: '2023-12-28'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample the
-  spending of a digital media campaign
+  In this project, the objective is to analyze from the dataset sample OF
+  MICROSOFT FINANCIAL STATEMENTS 2019 - 2022
 featuredImage:
   type: ImageBlock
   url: /images/SalesFunnel IMG3.png
