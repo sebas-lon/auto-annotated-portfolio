@@ -15,7 +15,7 @@ featuredImage:
   caption: ELDEN RING
 media:
   type: ImageBlock
-  url: /images/SalesFunnel IMG3.png
+  url: /images/Elden Ring.png
   altText: g4
 bottomSections: []
 metaTags: []
