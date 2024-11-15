@@ -14,6 +14,7 @@ sections:
       - content/pages/projects/placer-growth-analysis.md
       - content/pages/projects/microsoft-financials.md
       - content/pages/projects/elden-ring.md
+      - content/pages/projects/covid-2022-in-colombia.md
     colors: colors-f
     variant: variant-b
     elementId: ''
