@@ -17,6 +17,7 @@ media:
   type: ImageBlock
   url: /images/Elden Ring.png
   altText: ELDEN RING
+  caption: ELDEN RING
 bottomSections: []
 metaTags: []
 colors: colors-a
