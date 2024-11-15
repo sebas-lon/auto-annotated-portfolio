@@ -10,7 +10,7 @@ description: >-
   search through the data and see the relationships or insights we can find.
 featuredImage:
   type: ImageBlock
-  url: /images/SalesFunnel IMG3.png
+  url: /images/Elden Ring.png
   altText: g4
   caption: g4
 media:
