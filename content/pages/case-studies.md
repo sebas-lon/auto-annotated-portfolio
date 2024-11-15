@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: See all projects
+        label: See all Case Studies
         url: /case-studies
     projects:
       - content/pages/projects/aw-cycles.md
