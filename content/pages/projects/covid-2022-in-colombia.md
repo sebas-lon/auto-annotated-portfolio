@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/COVID 2022 COL.png
   altText: covid
-  caption: Placer.ai
+  caption: covid
 media:
   type: ImageBlock
   url: /images/Placer_logo3.png
