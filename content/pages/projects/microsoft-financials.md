@@ -13,7 +13,7 @@ featuredImage:
   caption: m
 media:
   type: ImageBlock
-  url: /images/SalesFunnel IMG3.png
+  url: /images/microsoftfinancial.png
   altText: g4
 bottomSections: []
 metaTags: []
