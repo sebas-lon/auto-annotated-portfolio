@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/hr22.png
-  altText: Placer.ai
+  altText: HR
   caption: Placer.ai
 media:
   type: ImageBlock
