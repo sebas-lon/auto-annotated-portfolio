@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/hr22.png
   altText: HR
-  caption: Placer.ai
+  caption: HR
 media:
   type: ImageBlock
   url: /images/Placer_logo3.png
