@@ -15,6 +15,7 @@ media:
   type: ImageBlock
   url: /images/salesdash.png
   altText: Sales Dashboard
+  caption: Sales Dashboard
 bottomSections: []
 metaTags: []
 colors: colors-a
