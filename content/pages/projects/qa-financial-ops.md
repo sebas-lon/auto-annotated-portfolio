@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Finalcial-com..png
   altText: qa ops
-  caption: Sales Dashboard
+  caption: qa ops
 media:
   type: ImageBlock
   url: /images/salesdash.png
