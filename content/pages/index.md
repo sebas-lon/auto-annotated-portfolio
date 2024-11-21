@@ -66,7 +66,6 @@ sections:
     projects:
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
-      - content/pages/projects/placer-growth-analysis.md
     styles:
       self:
         height: auto
