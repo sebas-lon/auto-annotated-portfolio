@@ -15,7 +15,7 @@ media:
   type: ImageBlock
   url: /images/Finalcial-com..png
   altText: qa ops
-  caption: Sales Dashboard
+  caption: qa ops
 bottomSections: []
 metaTags: []
 colors: colors-a
