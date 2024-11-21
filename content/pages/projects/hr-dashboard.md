@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/hr22.png
-  altText: placer
+  altText: HR
 bottomSections: []
 metaTags: []
 colors: colors-a
