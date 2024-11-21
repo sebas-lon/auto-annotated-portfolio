@@ -8,7 +8,7 @@ description: >-
   Financial operation #RWFD
 featuredImage:
   type: ImageBlock
-  url: /images/salesdash.png
+  url: /images/Finalcial-com..png
   altText: Sales Dashboard
   caption: Sales Dashboard
 media:
