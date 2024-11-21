@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: SALES DASHBOARD TABLEAU
-date: ''
+date: '2024-02-19'
 client: ''
 description: >-
   In this project, the objective is to analyze from the dataset sample of Sales
