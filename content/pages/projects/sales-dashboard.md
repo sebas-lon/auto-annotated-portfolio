@@ -4,7 +4,7 @@ title: SALES DASHBOARD TABLEAU
 date: '2024-06-19'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample of HR
+  In this project, the objective is to analyze from the dataset sample of Sales
   #RWFD
 featuredImage:
   type: ImageBlock
