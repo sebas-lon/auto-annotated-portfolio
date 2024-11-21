@@ -22,55 +22,71 @@ colors: colors-a
 ---
 \##TABLEAU DASHBOARD
 
-<iframe src="https://public.tableau.com/views/SalesDash_17321295454840/Dashboard1?:showVizHome=no&:embed=true" 
-        width="1200" 
-        height="827" 
+<iframe src="https://public.tableau.com/views/Financials_17321290258390/Dashboard?:showVizHome=no&:embed=true" 
+        width="1300" 
+        height="1027" 
         style="border: none;">
 </iframe>
 
 CONCLUSIONS
 
-### 1. **Overall Sales Performance (2023)**
+### 1. **Overall Complaint Statistics**
 
-*   **Total Sales**: $733K, which is a **20.36% increase** compared to the previous year (PY).
+*   **Total Complaints**: 75,513 complaints logged between December 2011 and October 2020.
 
-*   **Total Profit**: $93K, a **14.24% growth** vs. PY, indicating improved profitability but at a slower pace than sales growth.
+*   **Timely Response Rate**: An impressive **98.1%**, indicating strong responsiveness to customer issues.
 
-*   **Total Quantity Sold**: 12K units, a significant **26.83% increase** vs. PY, suggesting strong demand.
+*   **In Progress**: Only **283 complaints (0.37%)** remain unresolved, showcasing efficiency in addressing issues.
 
-### 2. **Monthly Trends**
+*   **Resolved at No Cost**: **84.5% of complaints** were resolved without additional cost to the consumer.
 
-*   Sales and profit trends show consistent growth throughout the year, with noticeable peaks in certain months.
+*   **Disputed Rate**: **9.8%** of complaints were disputed by customers, suggesting room for improvement in resolution satisfaction.
 
-*   Profitability aligns with sales trends but dips in some months, which might indicate increased costs or lower margins during those periods.
+### 2. **Complaints by Issue**
 
-### 3. **Sales & Profit by Subcategory**
+*   **Top Issues**:
 
-*   **High-performing categories**: Phones, Chairs, and Binders are top contributors in both sales and profit.
+    *   "Managing an account" and "Deposits and withdrawals" are the most common issues.
 
-*   **Underperforming categories**: Accessories and Tables show losses (highlighted in red), which could indicate high costs, pricing issues, or low demand.
+    *   Other notable issues include "Trouble during the payment process" and "Struggling to pay mortgage."
 
-*   Certain subcategories, such as Machines and Appliances, show moderate but consistent profit margins.
+*   Less frequent but still significant complaints involve **identity theft/fraud**, **interest rates**, and **getting a credit card.**
 
-### 4. **Weekly KPI Trends**
+### 3. **Complaints by States**
 
-*   Weekly sales fluctuate around an average of **$14K**, with significant spikes likely during promotions or high-demand periods.
+*   Certain states, like **Georgia (GA)**, **Florida (FL)**, and **Texas (TX)**, have higher volumes of complaints, possibly due to larger populations or regional-specific financial challenges.
 
-*   Weekly profit averages around **$2K**, with occasional dips into losses, indicating some inefficiencies or high expenses during certain weeks.
+### 4. **Complaints by Media**
 
-### 5. **Opportunities for Improvement**
+*   **Web** is the most common channel for complaints (**50.37%**, 38,036 complaints), reflecting a preference for digital interactions.
 
-*   Address underperforming subcategories (e.g., Accessories and Tables) by optimizing costs, reviewing pricing strategies, or focusing on higher-demand items.
+*   **Referrals** and **Phone** also account for significant portions, while traditional methods like **Postal Mail** and **Fax** are less used.
 
-*   Analyze weeks with significant profit dips to identify inefficiencies or cost-related issues.
+*   **Email** has the least usage, likely due to inefficient complaint tracking through this medium.
 
-### 6. **Strengths**
+### 5. **Complaints by Product**
 
-*   Strong year-over-year growth in sales and quantity sold highlights effective marketing and sales strategies.
+*   **Credit Card**-related issues lead with 19,176 complaints.
 
-*   Top-performing subcategories are driving profitability and can be further leveraged for growth.
+*   Other notable product categories include **Checking or Savings Accounts**, **Mortgages**, and **Credit Card Prepaid Accounts.**
 
+*   Lower complaint volumes are seen in **Vehicle loans/leases** and **Student loans.**
 
+### 6. **Consumer Dispute Rate**
+
+*   **9.8% of consumers** actively disputed resolutions.
+
+*   A large proportion of complaints (**41.3%**) have "Unknown" resolution status, indicating potential gaps in data capture or follow-ups.
+
+### Opportunities for Improvement:
+
+*   Address recurring issues in **managing accounts** and **deposit/withdrawal processes**.
+
+*   Investigate states with high complaint volumes for localized solutions.
+
+*   Review dispute cases to identify gaps in resolution satisfaction.
+
+*   Enhance support channels with lower usage (e.g., email) for better tracking and accessibility.
 
 
 
