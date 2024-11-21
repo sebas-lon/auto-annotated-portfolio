@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Finalcial-com..png
-  altText: Sales Dashboard
+  altText: qa ops
   caption: Sales Dashboard
 media:
   type: ImageBlock
