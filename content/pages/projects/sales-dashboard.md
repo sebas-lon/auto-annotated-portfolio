@@ -8,7 +8,7 @@ description: >-
   #RWFD
 featuredImage:
   type: ImageBlock
-  url: /images/hr22.png
+  url: /images/salesdash.png
   altText: HR
   caption: HR
 media:
