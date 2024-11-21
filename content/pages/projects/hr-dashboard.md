@@ -13,7 +13,7 @@ featuredImage:
   caption: HR
 media:
   type: ImageBlock
-  url: /images/Placer_logo3.png
+  url: /images/hr22.png
   altText: placer
 bottomSections: []
 metaTags: []
