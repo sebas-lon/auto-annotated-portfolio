@@ -64,9 +64,9 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
+      - content/pages/projects/hr-dashboard.md
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
-      - content/pages/projects/hr-dashboard.md
     styles:
       self:
         height: auto
