@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: SALES DASHBOARD TABLEAU
+title: QA FINANCIAL OPS
 date: '2024-06-05'
 client: ''
 description: >-
