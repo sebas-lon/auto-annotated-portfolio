@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/salesdash.png
-  altText: HR
+  altText: Sales Dashboard
   caption: HR
 media:
   type: ImageBlock
