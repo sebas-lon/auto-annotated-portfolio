@@ -9,6 +9,7 @@ sections:
         label: See all Case Studies
         url: /case-studies
     projects:
+      - content/pages/projects/hr-dashboard.md
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
       - content/pages/projects/placer-growth-analysis.md
