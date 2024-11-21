@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: HR DASHBOARD
+title: SALES DASHBOARD TABLEAU
 date: '2024-06-19'
 client: ''
 description: >-
