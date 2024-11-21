@@ -16,6 +16,8 @@ sections:
       - content/pages/projects/microsoft-financials.md
       - content/pages/projects/elden-ring.md
       - content/pages/projects/covid-2022-in-colombia.md
+      - content/pages/projects/qa-financial-ops.md
+      - content/pages/projects/sales-dashboard.md
     colors: colors-f
     variant: variant-b
     elementId: ''
