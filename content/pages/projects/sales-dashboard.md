@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/salesdash.png
-  altText: HR
+  altText: Sales Dashboard
 bottomSections: []
 metaTags: []
 colors: colors-a
