@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Finalcial-com..png
-  altText: Sales Dashboard
+  altText: qa ops
   caption: Sales Dashboard
 bottomSections: []
 metaTags: []
