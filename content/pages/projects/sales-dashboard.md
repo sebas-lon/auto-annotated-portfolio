@@ -22,54 +22,55 @@ colors: colors-a
 ---
 \##TABLEAU DASHBOARD
 
-<iframe src="https://public.tableau.com/views/HRDashboard_17321218696190/HRSummary?:showVizHome=no&:embed=true" 
-        width="1400" 
+<iframe src="https://public.tableau.com/views/SalesDash_17321295454840/Dashboard1?:showVizHome=no&:embed=true" 
+        width="1200" 
         height="827" 
         style="border: none;">
 </iframe>
 
 CONCLUSIONS
 
-**Workforce Overview**:
------------------------
+### 1. **Overall Sales Performance (2023)**
 
-*   Total active employees: **7,984**.
+*   **Total Sales**: $733K, which is a **20.36% increase** compared to the previous year (PY).
 
-*   Positive hiring trend: **8,950 hired** vs. **966 terminated**, indicating workforce growth.
+*   **Total Profit**: $93K, a **14.24% growth** vs. PY, indicating improved profitability but at a slower pace than sales growth.
 
-*   **Department Distribution**:
+*   **Total Quantity Sold**: 12K units, a significant **26.83% increase** vs. PY, suggesting strong demand.
 
-    *   **Operations** leads with the most employees (**2,429**), followed by **Sales** and **Customer Service**.
+### 2. **Monthly Trends**
 
-    *   Smaller teams are seen in **Marketing**, **Finance**, and **HR**.
+*   Sales and profit trends show consistent growth throughout the year, with noticeable peaks in certain months.
 
-*   **Demographics**:
+*   Profitability aligns with sales trends but dips in some months, which might indicate increased costs or lower margins during those periods.
 
-    *   **Gender**: Balanced distribution (54% Male, 46% Female).
+### 3. **Sales & Profit by Subcategory**
 
-    *   **Education & Age**: Most employees have a **Bachelor's degree**, with ages concentrated in the **25–34 range**.
+*   **High-performing categories**: Phones, Chairs, and Binders are top contributors in both sales and profit.
 
-*   **Performance by Education**:
+*   **Underperforming categories**: Accessories and Tables show losses (highlighted in red), which could indicate high costs, pricing issues, or low demand.
 
-    *   **Master’s degree holders** show the highest "Excellent" performance ratings.
+*   Certain subcategories, such as Machines and Appliances, show moderate but consistent profit margins.
 
-    *   Lower education levels (e.g., high school) tend to score in "Satisfactory."
+### 4. **Weekly KPI Trends**
 
-*   **Income**:
+*   Weekly sales fluctuate around an average of **$14K**, with significant spikes likely during promotions or high-demand periods.
 
-    *   Higher education levels (e.g., **PhD**, **Master's**) correlate with higher salaries.
+*   Weekly profit averages around **$2K**, with occasional dips into losses, indicating some inefficiencies or high expenses during certain weeks.
 
-    *   Bachelor's degree holders earn between **$66K and $74K**.
+### 5. **Opportunities for Improvement**
 
-*   **Age & Salary**:
+*   Address underperforming subcategories (e.g., Accessories and Tables) by optimizing costs, reviewing pricing strategies, or focusing on higher-demand items.
 
-    *   Salaries increase with age and experience.
+*   Analyze weeks with significant profit dips to identify inefficiencies or cost-related issues.
 
-    *   Top-paid roles include **Managers** and **Financial Specialists**, while operational roles have lower pay scales.
+### 6. **Strengths**
 
-*   **Location**:
+*   Strong year-over-year growth in sales and quantity sold highlights effective marketing and sales strategies.
 
-    *   Workforce is concentrated in **New York** and a few international branches.
+*   Top-performing subcategories are driving profitability and can be further leveraged for growth.
+
+
 
 
 
