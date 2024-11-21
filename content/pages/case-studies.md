@@ -10,6 +10,7 @@ sections:
         url: /case-studies
     projects:
       - content/pages/projects/qa-financial-ops.md
+      - content/pages/projects/sales-dashboard.md
       - content/pages/projects/hr-dashboard.md
       - content/pages/projects/aw-cycles.md
       - content/pages/projects/g4-analytics.md
@@ -17,7 +18,6 @@ sections:
       - content/pages/projects/microsoft-financials.md
       - content/pages/projects/elden-ring.md
       - content/pages/projects/covid-2022-in-colombia.md
-      - content/pages/projects/sales-dashboard.md
     colors: colors-f
     variant: variant-b
     elementId: ''
