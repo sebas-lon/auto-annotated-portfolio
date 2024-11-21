@@ -4,8 +4,8 @@ title: QA FINANCIAL OPS
 date: '2024-06-05'
 client: ''
 description: >-
-  In this project, the objective is to analyze from the dataset sample of Sales
-  #RWFD
+  In this project, the objective is to analyze from the dataset sample of
+  Financial operation #RWFD
 featuredImage:
   type: ImageBlock
   url: /images/salesdash.png
